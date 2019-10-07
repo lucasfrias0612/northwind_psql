@@ -1,0 +1,19 @@
+Este repositorio contenía el script SQL de la base de datos northwind adaptada para el motor de PostgreSQL:
+https://github.com/pthom/northwind_psql
+
+Operador LIKE PostgreSQL:
+https://www.tutorialspoint.com/postgresql/postgresql_like_clause.htm
+
+Date/Time Functions and Operators PostgreSQL:
+https://www.postgresql.org/docs/8.0/functions-datetime.html
+
+Documentación sobre cómo hacer varias comparaciones a una cadena de caracteres (similar to/like any array):
+https://stackoverflow.com/questions/38073291/postgresql-where-in-like-query
+
+Cláusula Order By
+http://www.postgresqltutorial.com/postgresql-order-by/
+Para consultar por el Top N
+https://stackoverflow.com/questions/13674031/how-to-get-the-top-10-values-in-postgresql
+
+Cláusula Disctinct
+http://www.postgresqltutorial.com/postgresql-select-distinct/
