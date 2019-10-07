@@ -3,4 +3,4 @@
 A simple sql script that will populate a database with the famous northwind example,
 adapted for postgres.
 
-<img src=ER.png />
+<img src=entity-relation_Diagrams/PostgreSQL_DER.png />
