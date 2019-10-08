@@ -17,3 +17,7 @@ https://stackoverflow.com/questions/13674031/how-to-get-the-top-10-values-in-pos
 
 Cláusula Disctinct
 http://www.postgresqltutorial.com/postgresql-select-distinct/
+
+Limitar Decimales en resultado
+https://www.postgresql.org/docs/9.1/functions-math.html
+https://tableplus.com/blog/2018/07/postgresql-how-to-round-column-value-to-some-decimal-places.html
