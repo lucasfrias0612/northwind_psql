@@ -1,0 +1,8 @@
+Group By y Having
+https://www.dofactory.com/sql/having
+
+Concatenar Strings en PostgreSQL
+https://w3resource.com/PostgreSQL/concat-function.php
+
+Extraer nombre de un mes por numero PostgreSQL
+https://codeday.me/es/qa/20190304/279610.html
