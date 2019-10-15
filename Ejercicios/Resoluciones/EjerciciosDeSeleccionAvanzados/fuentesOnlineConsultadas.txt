@@ -6,3 +6,14 @@ https://w3resource.com/PostgreSQL/concat-function.php
 
 Extraer nombre de un mes por numero PostgreSQL
 https://codeday.me/es/qa/20190304/279610.html
+
+Suconsultas
+https://es.slideshare.net/nicola51980/postgresql-leccin-6-subconsultas
+https://www.tutorialesprogramacionya.com/postgresqlya/temarios/descripcion.php?inicio=50&cod=218&punto=60
+https://www.aulaclic.es/sql/t_5_1.htm
+
+Sumar datos de una columna
+http://www.postgresqltutorial.com/postgresql-sum-function/
+
+Calcular promedio con una función
+https://www.tutorialspoint.com/postgresql/postgresql_avg_function.htm
