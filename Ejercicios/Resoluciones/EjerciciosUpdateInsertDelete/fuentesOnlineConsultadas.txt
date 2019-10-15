@@ -1,0 +1,20 @@
+The SQL UPDATE Statement
+https://www.w3schools.com/sql/sql_update.asp
+
+Alterar restricciones de llaves para permitir actualización en cascada
+https://www.tutorialesprogramacionya.com/postgresqlya/temarios/descripcion.php?inicio=50&cod=214&punto=56
+
+Transacciones en postgreSQL
+https://www.youtube.com/watch?v=SOxVV8629y4
+
+SQL DELETE Statement
+https://www.w3schools.com/sql/sql_delete.asp
+
+Es necesario llamar un rollback en postgreSQL?
+https://dba.stackexchange.com/questions/125083/basic-transactional-ddl-script-in-postgresql
+
+SQL INSERT INTO Statement
+https://www.w3schools.com/sql/sql_insert.asp
+
+SQL INSERT INTO SELECT Statement
+https://www.w3schools.com/sql/sql_insert_into_select.asp
